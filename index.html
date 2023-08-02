@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <title>ToDo</title>
+    <style>
+        #updt{
+            visibility: hidden;
+        }
+    </style>
+</head>
+<body>
+    <div class="main">
+        <div class="raw1"><div class="img"></div><!--img src="img/bg-img.jpg" alt="image"--></div>
+        <div class="raw2"></div>
+        <div class="col">
+            <form class="container">
+                <table>
+                    <tr>
+                        <td><input type="text" id="text" class="text" value="" placeholder="Current typing"></td>
+                        <td>
+                            <select name="" id="type">
+                                <option value="University">University</option>
+                                <option value="Persional">Persional</option>
+                                <option value="Important">Important</option>
+                                <option value="Others" selected>Others</option>
+                            </select>
+                        </td>
+                        <td><input type="submit" value="ADD" id="btn" onclick="ADD()"></td>
+                    </tr>
+                </table>      
+            </form>
+
+            <div id="demo"></div>
+        </div>
+
+        <div id="updt" class="updt">            
+            <form class="container">
+                <h3>UPDATE</h3>
+                <table>
+                    <td><input type="text" id="u_text" value=""></td>
+                    <td><select name="" id="u_type">
+                        <option value="University">University</option>
+                        <option value="Persional">Persional</option>
+                        <option value="Important">Important</option>
+                        <option value="Others" selected>Others</option>
+                    </select></td>
+                    <td><input type="submit" value="UPDATE" id="btn" onclick="ArrayUPDTE()"></td>
+                </table>
+            </form>
+            
+        </div>
+    </div>
+    <script src="js/app.js"></script>
+</body>
+</html>
