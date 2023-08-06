@@ -18,17 +18,13 @@ Welcome to my awesome web-based to-do app! This project was built with JavaScrip
 
 ![Mobile View](img/Capture-m.JPG)
 
-### Large Screen View
-
-![Large Screen View](images/large_screen_view.jpg)
-
 ## Getting Started
 
-To get started with the app, you can visit the live demo [here](https://www.example.com/my-awesome-to-do-app) and start managing your tasks immediately.
+To get started with the app, you can visit the live demo [here](https://pathugit.github.io/todo-app/) and start managing your tasks immediately.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/my-awesome-to-do-app.git`
+1. Clone the repository: `git clone https://github.com/pathuGIT/my-awesome-to-do-app.git`
 2. Navigate to the project directory: `cd my-awesome-to-do-app`
 3. Open the `index.html` file in your favorite web browser.
 
