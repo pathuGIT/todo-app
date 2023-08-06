@@ -16,7 +16,7 @@ Welcome to my awesome web-based to-do app! This project was built with JavaScrip
 
 ### Mobile View
 
-![Mobile View](images/mobile_view.jpg)
+![Mobile View](img/Capture-m.JPG)
 
 ### Large Screen View
 
