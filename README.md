@@ -24,23 +24,14 @@ To get started with the app, you can visit the live demo [here](https://pathugit
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/pathuGIT/my-awesome-to-do-app.git`
-2. Navigate to the project directory: `cd my-awesome-to-do-app`
+1. Clone the repository: `git clone https://github.com/pathuGIT/todo-app.git`
+2. Navigate to the project directory: `cd todo-app`
 3. Open the `index.html` file in your favorite web browser.
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature-name`.
-3. Make your changes and commit them: `git commit -m 'Add a cool new feature'`.
-4. Push to the branch: `git push origin feature/your-feature-name`.
-5. Submit a pull request.
 
 ## Feedback
 
-I would love to hear your feedback and suggestions. Feel free to open an issue on the GitHub repository or reach out to me at your.email@example.com.
+I would love to hear your feedback and suggestions. Feel free to open an issue on the GitHub repository or reach out to me at pathumwannige@gmail.com.
 
 ## License
 
