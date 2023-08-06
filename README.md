@@ -2,7 +2,7 @@
 
 Welcome to my awesome web-based to-do app! This project was built with JavaScript and designed to help you stay organized and productive.
 
-![App Preview](images/app_preview.jpg)
+![App Preview](img/Capture.JPG)
 
 ## Features
 
